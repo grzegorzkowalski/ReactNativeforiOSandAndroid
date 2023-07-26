@@ -20,19 +20,3 @@ Zainstaluj rozszerzenie do narzędzi developerskich React Developer Tools oraz r
 ## Zadanie 3
 
 Skonfiguruj emulator i uruchom aplikację testową na emulatorze.
-
-## Zadanie 4
-
-Zainstaluj Flippera i przetestuj jego działanie z aplikacją, którą stworzyłeś w poprzednim rozdziale.
-
-Do instalacji wymagany jest start, jeśli go nie masz zainstaluj.
-
-`git clone https://github.com/facebook/flipper.git`
-
-`cd flipper/desktop`
-
-`yarn`
-
-`yarn start`
-
-
