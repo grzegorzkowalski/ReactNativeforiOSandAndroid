@@ -8,7 +8,7 @@
 1. Przejdź do folderu z zainstalowaną aplikacją `cd hello-world`.
 1. Sprawdź, jakie masz dostępne komendy expo `npx expo -h `.
 1. Zainstaluj dodatkowe pakietu do widoku webowego
-   `npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2`.
+   `npx expo install react-native-web react-dom @expo/webpack-config`.
 1. Uruchom aplikację `npm start` lub `npx expo start`. Upewnij się, że jesteś w dobrym folderze projektu.
 1. Zapoznaj się z interface narzędzia Metro.
 1. Odczytaj kod QR i otwórz projekt w aplikacji mobilnej Expo.
